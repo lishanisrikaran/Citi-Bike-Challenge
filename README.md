@@ -2,7 +2,7 @@
 
 Link to Tableau Workbook - https://public.tableau.com/views/Citi-Bike-Challenge_16930460770750/RideVolumeJanuaryvsJune?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link
 
-Please note the data set used is larger and is entering into the world of big data, the load times may be higher but the analysis will load with very rich insights. 
+<b>Please note the data set used is large (approximately 280k rows) and is entering into the world of big data, the load times may be higher but the analysis will load with very rich insights. It is recommended that you open the twbx file in the Tableau Workbook directory and leave it for 5-10 minutes before reviewing.</b>
 
 Scenario: 
 
