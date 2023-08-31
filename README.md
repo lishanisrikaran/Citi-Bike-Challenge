@@ -2,7 +2,7 @@
 <b> PLEASE READ BEFORE REVIEWING THE TABLEAU WORKBOOK: 
 When you click on the below link to access the Tableau Public workbook, the screen may not load. Please scroll to the bottom of the visual and click on the expanded screen icon to view the visualisation in full screen. You will then be able to navigate and see the full challenge, if any of the tabs do not load, try clicking onto another tab and go back again. If for any reason, this does not work for you, please open the twbx file in the Tableau Workbook directory and leave it for approximately 5-10 minutes before reviewing this challenge.</b>
 
-Link to Tableau Workbook - [https://public.tableau.com/views/Citi-Bike-Challenge_16930460770750/RideVolumeJanuaryvsJune?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Citi-Bike-Challenge_16930460770750/RideVolumeJanuaryvsJune?:language=en-GB&:display_count=n&:origin=viz_share_link)
+Link to Tableau Workbook - https://public.tableau.com/views/Citi-Bike-Challenge_16930460770750/RideVolumeJanuaryvsJune?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 <b>Please note the data set used is large (approximately 280k rows) and is entering into the world of big data, the load times may be higher but the analysis will load with very rich insights. It is recommended that you open the twbx file in the Tableau Workbook directory and leave it for 5-10 minutes before reviewing.</b>
 
